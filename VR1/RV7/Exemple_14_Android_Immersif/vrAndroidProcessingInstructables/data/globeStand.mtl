@@ -1,0 +1,12 @@
+# Blender MTL File: 'roomVr.blend'
+# Material Count: 1
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.439078 0.439078 0.439078
+Ks 1.000000 1.000000 1.000000
+Ke 0.334797 0.334797 0.334797
+Ni 1.000000
+d 1.000000
+illum 2
